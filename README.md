@@ -1,4 +1,4 @@
-JS + React Testing (Bootcamp Activity) Instructions:
+## JS + React Testing (Bootcamp Activity) Instructions:
 
 1. Clone this repo to your machine and open the folder in your preferred editor
 
@@ -15,6 +15,9 @@ JS + React Testing (Bootcamp Activity) Instructions:
 
 6. Once you're ready to submit your work, push your changes (no need to make a PR, I'll be checking out the branches)
 
-Links to documentation:
+
+
+## Links to documentation:
 https://jestjs.io/docs/getting-started
+
 https://testing-library.com/docs/react-testing-library/intro
